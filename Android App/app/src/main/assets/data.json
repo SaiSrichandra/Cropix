@@ -1,0 +1,57 @@
+{
+    "Cabbage" : {
+        "name" : "Brassica oleracea",
+        "desc" : "Cabbage or Lettuce is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage and belongs to the cole crops. Cabbage was most likely domesticated somewhere in Europe before 1000 BC. By the Middle Ages, cabbage had become a prominent part of European cuisine.",
+        "imgpath" : "thumb_cabbage",
+        "url": "https://en.wikipedia.org/wiki/Cabbage"
+
+    },
+    "Corn" : {
+        "name" : "Zea mays",
+        "desc" : "Corn, also known as Maize, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen and separate ears that yield kernels or seeds, which are fruits. Maize has become a staple food in many parts of the world, with the total production of maize surpassing that of wheat or rice.",
+        "imgpath" : "thumb_corn",
+        "url": "https://en.wikipedia.org/wiki/Maize"
+    },
+    "Cotton":{
+        "name" : "Gossypium Malvaceae",
+        "desc" : "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants. The fiber is almost pure cellulose. Under natural conditions, the cotton bolls will increase the dispersal of the seeds. The plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, Egypt and India.",
+        "imgpath" : "thumb_cotton",
+        "url": "https://en.wikipedia.org/wiki/Cotton"
+    },
+    "Misc":{
+        "name" : "Not Applicable",
+        "desc" : "No Data Available",
+        "imgpath" : "thumb_misc",
+        "url": ""
+    },
+    "Paddy":{
+        "name" : "Oryza sativa",
+        "desc" : "Paddy or Rice is a cereal grain, which is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production. Rice, a monocot, is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years.",
+        "imgpath" : "thumb_paddy",
+        "url": "https://en.wikipedia.org/wiki/Rice"
+    },
+    "Sugarcane":{
+        "name" : "Saccharum officinarum",
+        "desc" : "Sugarcane refers to several species and hybrids of tall perennial grass that are used for sugar production. The plants are two to six metres (six to twenty feet) tall with stout, jointed, fibrous stalks that are rich in sucrose, which accumulates in the stalk internodes. Sugarcane is the world's largest crop by production quantity.",
+        "imgpath" : "thumb_sugarcane",
+        "url": "https://en.wikipedia.org/wiki/Sugarcane"
+    },
+    "Sunflower":{
+        "name" : "Helianthus annuus",
+        "desc" : "Sunflower refers to popular annual species, whose round flower heads in combination with the ligules look like the sun. This and other species, notably Jerusalem artichoke, are cultivated in temperate regions and some tropical regions as food crops for humans, cattle, and poultry, and as ornamental plants. The species typically grows during the summer and into early fall, with the peak growth season being mid-summer.",
+        "imgpath" : "thumb_sunflower",
+        "url": "https://en.wikipedia.org/wiki/Helianthus"
+    },
+    "Tea":{
+        "name" : "Camellia sinensis",
+        "desc" : "Tea is a species of evergreen shrubs or small trees in the flowering plant family Theaceae whose leaves and leaf buds are used to produce tea. Sinensis and Assamica are two major varieties grown today. White tea, yellow tea, green tea, oolong, dark tea and black tea are all harvested from one or the other, but are processed differently to attain varying levels of oxidation.",
+        "imgpath" : "thumb_tea",
+        "url": "https://en.wikipedia.org/wiki/Camellia_sinensis"
+    },
+    "Wheat":{
+        "name" : "Triticum Aestivum",
+        "desc" : "Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. The many species of wheat together make up the genus Triticum and the most widely grown is common wheat. The archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BCE. Botanically, the wheat kernel is a type of fruit called a caryopsis.",
+        "imgpath" : "thumb_wheat",
+        "url": "https://en.wikipedia.org/wiki/Wheat"
+    }
+}
